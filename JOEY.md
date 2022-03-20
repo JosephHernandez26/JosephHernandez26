@@ -1,6 +1,6 @@
 # **Joey Hernandez**
 
-![Joey's Stats](https://github-readme-stats.vercel.app/api?username=josephhernandez26&show_icons=true&theme=dracula)
+![Joey's Stats](https://github-readme-stats.vercel.app/api?username=josephhernandez26&count_private=true&show_icons=true&theme=dracula)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephhernandez26)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,3 +17,10 @@ Connect with me on [![LinkedIn][1.1]][1]
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 [1]: https://www.linkedin.com/in/jmhernandez2six/
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephhernandez26&repo=Joey-is-my-Name&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=josephhernandez26&repo=Portfolio&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tech Perspective](https://github-readme-stats.vercel.app/api/pin/?username=Meltingpot-Data&repo=techperspective-front&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Little Librarian](https://github-readme-stats.vercel.app/api/pin/?username=Open-Hand-Data&repo=little-librarian-front&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
