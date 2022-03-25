@@ -7,32 +7,34 @@
 <a href="mailto:joeycodes26@gmail.com" target="_blank" rel="noopener noreferrer"><img height="44" src="./assets/icons8-gmail-logo-96.png"></a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Welcome to my GitHub!</h2>
+<h3 align="center">Welcome to my GitHub!</h3>
 
-![GitHub stars](https://img.shields.io/github/stars/josephhernandez26/josephhernandez26?style=social)
-![GitHub forks](https://img.shields.io/github/forks/josephhernandez26/josephhernandez26?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/josephhernandez26/josephhernandez26?style=social)
-![GitHub followers](https://img.shields.io/github/followers/josephhernandez26?style=social)
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+</div>
 
+<div align="center">
+<p></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=josephhernandez26&theme=neon-dark" alt="[hit counter](https://git.io/streak-stats)" align="center">
+</div>
 
-![Joey's Stats](https://github-readme-stats.vercel.app/api?username=josephhernandez26&count_private=true&show_icons=true&theme=dracula)
+<div align="center">
+<p></p>
+<img src="https://github-readme-stats.vercel.app/api?username=josephhernandez26&count_private=true&show_icons=true&theme=dracula" alt="readme stats" align="center">
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephhernandez26)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephhernandez26&layout=compact&theme=midnight-purple&card_width=800&hide_border=false)](https://github.com/josephhernandez26/github-readme-stats)
 
-![Node](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063) 
-![React](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=00ffff&color=00ffff)
-![JavaScript](https://img.shields.io/badge/Developer-JavaScript-informational?style=flat&logo=javascript&logoColor=f0db4f&color=f0db4f)
-![HTML](https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html5&logoColor=ff3333&color=ff3333)
-![CSS](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=66d3fa&color=66d3fa)
+<h2 align="center">What I Am Working With</h2>
 
----
-
-Connect with me on [![LinkedIn][1.1]][1]
-
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-[1]: https://www.linkedin.com/in/jmhernandez2six/
-
+<div align="center">
+<p></p>
+<img src="https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063" alt="node" align="center">
+<img src="https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=00ffff&color=00ffff" alt="React" align="center">
+<img src="https://img.shields.io/badge/Developer-JavaScript-informational?style=flat&logo=javascript&logoColor=f0db4f&color=f0db4f" alt="JS" align="center">
+<img src="https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=66d3fa&color=66d3fa" alt="CSS" align="center">
+</div>
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephhernandez26&repo=josephhernandez26&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
