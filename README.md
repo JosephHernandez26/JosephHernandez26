@@ -38,6 +38,5 @@
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josephhernandez26&repo=josephhernandez26&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=josephhernandez26&repo=Portfolio&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Tech Perspective](https://github-readme-stats.vercel.app/api/pin/?username=Meltingpot-Data&repo=techperspective-front&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Little Librarian](https://github-readme-stats.vercel.app/api/pin/?username=Open-Hand-Data&repo=little-librarian-front&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
