@@ -14,10 +14,10 @@
 <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <p></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephhernandez26&theme=neon-dark" alt="[hit counter](https://git.io/streak-stats)" align="center">
-</div>
+</div> -->
 
 <div align="center">
 <p></p>
